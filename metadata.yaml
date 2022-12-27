@@ -1,0 +1,29 @@
+_repo: The-Sea-Scouts-of-the-Kestrel-The-story-of-a-cruise-of-adventure-pluck-in-a-small-yacht-on-th__69612
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: https://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_issued: '2022-12-22'
+identifiers:
+  gutenberg: '69612'
+language: en
+pgterms:marc905: 20221220163246westerman
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: Al Haines, Jen Haines & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: 'United Kingdom: Seeley, Service & Co. Limited,1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Sea Scouts of the Kestrel: The story of a cruise of adventure & pluck
+  in a small yacht on the English Channel'
+url: http://www.gutenberg.org/ebooks/69612
