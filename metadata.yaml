@@ -1,5 +1,8 @@
 _repo: The-Sea-Scouts-of-the-Kestrel-The-story-of-a-cruise-of-adventure-pluck-in-a-small-yacht-on-th__69612
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69612-h/images/cover.jpg
 creator:
   author:
     agent_name: Westerman, Percy F. (Percy Francis)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: https://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69612#The-Sea-Scouts-of-the-Kestrel-The-story-of-a-cruise-of-adventure-pluck-in-a-small-yacht-on-th_
 gutenberg_issued: '2022-12-22'
 identifiers:
   gutenberg: '69612'
